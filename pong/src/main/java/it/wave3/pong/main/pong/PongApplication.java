@@ -1,4 +1,4 @@
-package it.wave3.pong.main.Pong;
+package it.wave3.pong.main.pong;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
