@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Utente59
+Build-Jdk: 11.0.2
+Implementation-Title: balldeath
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: it.giov
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/balldeath
+Created-By: Maven Integration for Eclipse
+
